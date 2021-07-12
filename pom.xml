@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CstLabs</name>
 	<description>CstLabs project for InternalCertifactiom
-	<packaging>war</packaging>
+	<packaging> war </packaging>
 
 	</description>
 	<properties>
