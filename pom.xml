@@ -12,10 +12,8 @@
 	<artifactId>CstLabs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CstLabs</name>
-	<description>CstLabs project for InternalCertifactiom
+	<description>CstLabs project for InternalCertifactiom  </description>
 	<packaging> war </packaging>
-
-	</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
